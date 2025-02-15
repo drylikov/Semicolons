@@ -1,0 +1,11 @@
+{
+  "author": "",
+  "name": "semicolons",
+  "description": "THEY ARE REQUIRED;",
+  "version": "1.0.2",
+  "main": "./semicolons.js",
+  "repository": {
+    "type": "git",
+    "url": ""
+  }
+}
